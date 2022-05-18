@@ -1,0 +1,7 @@
+{
+  "name": "RUTES-EXC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
